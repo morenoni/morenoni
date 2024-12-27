@@ -8,6 +8,6 @@ I'm Nicky, a CS girly from Nicaragua currently studying at Grinnell College, Iow
 - ⚡ Fun fact: I love baking and eating sweets!  
 
 ## Let's Connect:
-- [LinkedIn](www.linkedin.com/in/nicole-moreno-gonzález-101105nic)  
-- [Email Me](morenoni@grinnell.edu)
+- [LinkedIn](https://www.linkedin.com/in/nicole-moreno-gonzalez-101105nic/)  
+- [Email Me](mailto:morenoni@grinnell.edu)
 
