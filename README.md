@@ -3,7 +3,7 @@ I'm Nicky, a CS girly from Nicaragua currently studying at Grinnell College, Iow
 
 ## About Me:
 - 👀 I’m passionate about cybersecurity, data analytics, and software development.  
-- 🌱 Currently learning SQL.  
+- 🌱 Currently learning Python for Data Science.  
 - 😄 Pronouns: She/Her.  
 - ⚡ Fun fact: I love baking and eating sweets!  
 
