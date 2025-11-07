@@ -9,6 +9,7 @@ I'm Nicky, a CS girly from Nicaragua currently studying at Grinnell College, Iow
 
 ## Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/nicolemg11/)
+
 Or email me:
 - [morenoni@grinnell.edu](mailto:morenoni@grinnell.edu)
 
