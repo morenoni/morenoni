@@ -1,9 +1,9 @@
 # HI THERE!  
-I'm Nicky, a CS girly from Nicaragua currently studying at Grinnell College, Iowa, USA.
+I'm Nicky, a CS girl from Nicaragua currently studying at Grinnell College, Iowa, USA.
 
 ## About Me:
 - 👀 I’m passionate about cybersecurity, data analytics, software development and education.  
-- 🌱 Currently working as a Student Researcher at Grinnell College
+- 🌱 Currently working as a Software Engineer in Programming Languages at Grinnell College
 - 😄 Pronouns: She/Her.  
 - ⚡ Fun fact: I love baking and eating sweets!  
 
