@@ -6,8 +6,10 @@ I'm Nicky, a senior at Grinnell College, and I'm looking for the best fit for gr
 
 - **Education:** B.A. student at Grinnell College (Grinnell, Iowa), majoring in Computer Science with a minor in Statistics
 - **Research:** My interests lie at the intersection of Human-Computer Interaction (HCI), Artificial Intelligence (AI), accessibility, and Computer Science education
+- **Publications:** Three papers at SIGCSE TS 2026 in the ACM Digital Library, one first-authored and two co-authored ([see my research](https://nicolemorenogonzalez.github.io/#research))
+- **Experience:** Undergraduate researcher at the Glimmer Research Lab at Grinnell College (Summer-Fall 2025) and Technology Support Center intern at LCS Corporation (Summer 2026)
 - **Pronouns:** she/her
-- **Fun fact:** I enjoy baking sourdough!
+- **Fun fact:** I enjoy baking sourdough and playing Minesweeper!
 
 ## Let's connect
 
