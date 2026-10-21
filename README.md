@@ -11,6 +11,11 @@ I'm Nicky, a senior at Grinnell College, and I'm looking for the best fit for gr
 - **Pronouns:** she/her
 - **Fun fact:** I enjoy baking sourdough and playing Minesweeper!
 
+## Projects
+
+- **Scamper IDE Accessibility:** accessibility work on a web-based Scheme IDE, including auto-indentation, ARIA labels, an accessible syntax tree, and keyboard shortcuts ([jakerss2/scamperAccessibility](https://github.com/jakerss2/scamperAccessibility))
+- **Multi-Agent RL for Autonomous Driving:** cooperative reinforcement learning at a traffic intersection ([khanhdo05/mas-cooperation](https://github.com/khanhdo05/mas-cooperation))
+
 ## Let's connect
 
 If we share similar interests, or you'd like to collaborate, I'd love to hear from you.
